@@ -25,7 +25,7 @@ This is a super simple Automator workflow to add a quick AWS account lookup acti
 
 ### How do I create the accountLookup.json file?
 
-There is a script in the scripts directory that will produce a file for you.  It expects a .csv file the column heads of "Account ID" and "Name" (this is what is produced if you do and export from your AWS Org account.
+There is a script in the scripts directory that will produce a file for you.  It expects a .csv file with column headers of "Account ID" and "Name" (this is what is produced if you do and export from your AWS Org account).
 
 ## Contributing/Feedback
 
