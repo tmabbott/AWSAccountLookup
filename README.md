@@ -6,7 +6,7 @@ This is a super simple Automator workflow to add a quick AWS account lookup acti
 
 ## Steps to install
 
-- donwload this repo
+- Download this repo
 - Install the workflow:
   - Honestly, you shouldn't do this without examining the workflow in Automator (unless you know me, and trust me)
   - Double click the "AWS Account Lookup.workflow" and Automator will prompt to install it, or
@@ -20,7 +20,7 @@ This is a super simple Automator workflow to add a quick AWS account lookup acti
 ## To use
 
 - Highlight an AWS account number anywhere (mail, terminal, wherever)
-- trigger your key-combo
+- Trigger your key-combo
 - Alternatively you can Ctrl-Click-(on the highlighted number)->Services->AWS Account Lookup
 
 ### How do I create the accountLookup.json file?
