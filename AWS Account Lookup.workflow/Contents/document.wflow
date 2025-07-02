@@ -68,7 +68,7 @@ fi
 
 # osascript -e "display notification \"$ACCOUNT_NAME\" with title \"AWS Account Lookup\""
 
-osascript -e "display dialog \"$ACCOUNT_NAME\" with title \"AWS Account Lookup\" buttons {\"OK\"} default button 1"
+osascript -e "display dialog \"$ACCOUNT_NUMBER = $ACCOUNT_NAME\" with title \"AWS Account Lookup\" buttons {\"OK\"} default button 1"
 
 </string>
 					<key>CheckedForUserDefaultShell</key>
