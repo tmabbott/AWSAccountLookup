@@ -2,7 +2,7 @@
 
 by Tim Mabbott
 
-If you work with a resonable number of AWS accounts you will very likely end up seeing account IDs in a context that doesn't include the account name.  This can be annoying, so I wrote this very simple MacOS Automator workflow to help.  You can simply highlight the ID and hit a key combo to display the assiciated account name.
+If you work with a resonable number of AWS accounts you will very likely end up seeing account IDs in a context that doesn't include the account name.  This can be annoying, so I wrote this very simple MacOS Automator workflow to help.  You can simply highlight the ID and hit a key combo to display the associated account name.
 
 ## Steps to install
 
